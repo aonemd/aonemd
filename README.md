@@ -1,8 +1,12 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonemd&theme=dark) 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonemd&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonemd&theme=light">
+  <img alt="Fallback image description" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonemd&theme=dark">
+</picture>
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aonemd&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aonemd&theme=dark) 
- 
+
 <!--
 **aonemd/aonemd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
