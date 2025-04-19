@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonemd&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonemd&theme=light">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonemd&theme=default">
   <img alt="Fallback image description" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aonemd&theme=dark">
 </picture>
  
